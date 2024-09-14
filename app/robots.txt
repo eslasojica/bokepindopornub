@@ -1,4 +1,4 @@
 User-agent: *
 Disallow:
 Allow: /
-Sitemap: https://bokepindo.pornub.lol/sitemap.xml
+sitemap: https://bokepindo.pornub.lol/sitemap.xml

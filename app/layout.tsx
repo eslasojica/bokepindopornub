@@ -1,22 +1,21 @@
 import "./globals.css";
-import Script from "next/script";
 import type { Metadata } from "next";
 import { Nunito } from "next/font/google";
-import { SITENAME } from "@/lib/constants";
 import { ThemeProvider } from "@/components/theme-provider";
+import { SITENAME } from "@/lib/constants";
 
 const font = Nunito({ subsets: ["latin"] });
 
 export const metadata: Metadata = {
     title: `${SITENAME} - Video Bokep Indo Viral Terbaru`,
-    description: `${SITENAME} Video Bokep Indo Jepang Jav Barat Simontok Viral Terbaru Bocil Ngentot Jilbab Smp Mama Sma korea china tante live paksa ngentot abg cewek pelajar.`,
+    description: `${SITENAME} Video Bokep Indo Bocil Jepang Ngentot Jav Jilbab Smp Barat Mama Viral Sma Korea Tante China Live Paksa Bokep Abg Terbaru`,
     metadataBase: new URL("https://bokepindo.pornub.lol"),
     alternates: {
         canonical: `/`,
     },
     openGraph: {
         title: `${SITENAME} - Video Bokep Indo Jepang Barat Viral Terbaru`,
-        description: `${SITENAME} Video Bokep Indo Jepang Jav Barat Simontok Viral Terbaru Bocil Ngentot Jilbab Smp Mama Sma korea china tante live paksa ngentot abg cewek pelajar.`,
+        description: `${SITENAME} Video Bokep Indo Bocil Jepang Ngentot Jav Jilbab Smp Barat Mama Viral Sma Korea Tante China Live Paksa Bokep Abg Terbaru`,
         url: `/`,
         type: `website`,
     },
@@ -37,7 +36,7 @@ export default function RootLayout({
         "@context": "https://schema.org",
         "@type": "Organization",
         "name": `${SITENAME}`,
-        "description": `${SITENAME} Video Bokep Indo Jepang Jav Barat Simontok Viral Terbaru Bocil Ngentot Jilbab Smp Mama Sma korea china tante live paksa ngentot abg cewek pelajar.`,
+        "description": `${SITENAME} Video Bokep Indo Bocil Jepang Ngentot Jav Jilbab Smp Barat Mama Viral Sma Korea Tante China Live Paksa Bokep Abg Terbaru`,
         "logo": "https://bokepindo.pornub.lol/favicon.ico",
         "url": "https://bokepindo.pornub.lol",
         "founder":{
@@ -45,14 +44,14 @@ export default function RootLayout({
             "name":"admin",
             "url":"https://bokepindo.pornub.lol"
             },
-            "foundingDate":"2024-04-09"
+            "foundingDate":"2024-09-14"
         }
         const jsonLd1 = {
             "@context": "https://schema.org",
         "@type": "WebPage",
         "name": `${SITENAME}`,
         "url": "https://bokepindo.pornub.lol",
-        "description": `${SITENAME} Video Bokep Indo Jepang Jav Barat Simontok Viral Terbaru Bocil Ngentot Jilbab Smp Mama Sma korea china tante live paksa ngentot abg cewek pelajar.`,
+        "description": `${SITENAME} Video Bokep Indo Bocil Jepang Ngentot Jav Jilbab Smp Barat Mama Viral Sma Korea Tante China Live Paksa Bokep Abg Terbaru`,
         "image": "https://bokepindo.pornub.lol/favicon.ico",
         "potentialAction":{
             "@type":"ReadAction",
@@ -63,7 +62,7 @@ export default function RootLayout({
         "@type": "WebSite",
         "name": `${SITENAME}`,
         "url": "https://bokepindo.pornub.lol",
-        "description": `${SITENAME} Video Bokep Indo Jepang Jav Barat Simontok Viral Terbaru Bocil Ngentot Jilbab Smp Mama Sma korea china tante live paksa ngentot abg cewek pelajar.`,
+        "description": `${SITENAME} Video Bokep Indo Bocil Jepang Ngentot Jav Jilbab Smp Barat Mama Viral Sma Korea Tante China Live Paksa Bokep Abg Terbaru`,
         "potentialAction": { 
         "@type": "SearchAction", 
           "target": "https://bokepindo.pornub.lol/?q={search_term}", 
@@ -93,7 +92,6 @@ export default function RootLayout({
                     {children}
                 </ThemeProvider>
             </body>
-<Script src="https://js.juicyads.com/jp.php?c=947403z2v256s2x2w264x294&u=http%3A%2F%2Fwww.juicyads.rocks"/>
         </html>
     );
 }
