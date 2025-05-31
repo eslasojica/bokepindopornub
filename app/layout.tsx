@@ -9,7 +9,7 @@ const font = Nunito({ subsets: ["latin"] });
 export const metadata: Metadata = {
     title: `${SITENAME} - Video Bokep Indo Viral Terbaru`,
     description: `${SITENAME} Video Bokep Indo Jepang Jav Barat Simontok Viral Terbaru Bocil Ngentot Jilbab Smp Mama Sma korea china tante live paksa ngentot abg cewek pelajar.`,
-    metadataBase: new URL("https://bokepindo.pornub.lol"),
+    metadataBase: new URL("https://bokepindopornub.pages.dev"),
     alternates: {
         canonical: `/`,
     },
@@ -20,8 +20,8 @@ export const metadata: Metadata = {
         type: `website`,
     },
     verification: {
-        google: 'Jt3n3qb_3GzLECLcPrWNkD7PuNcKBQWjefUEoxgXK8Y',
-        yandex: '51db68afdc893fad',
+        google: 'loJXdUr2dByrhQpJ9-jieBC3hZKyvZuXOSx8We_1S4M',
+        yandex: '260b916c0450bb46',
     },
 };
 
@@ -37,12 +37,12 @@ export default function RootLayout({
         "@type": "Organization",
         "name": `${SITENAME}`,
         "description": `${SITENAME} Video Bokep Indo Jepang Jav Barat Simontok Viral Terbaru Bocil Ngentot Jilbab Smp Mama Sma korea china tante live paksa ngentot abg cewek pelajar.`,
-        "logo": "https://bokepindo.pornub.lol/favicon.ico",
-        "url": "https://bokepindo.pornub.lol",
+        "logo": "https://bokepindopornub.pages.dev/favicon.ico",
+        "url": "https://bokepindopornub.pages.dev",
         "founder":{
             "@type":"Person",
             "name":"admin",
-            "url":"https://bokepindo.pornub.lol"
+            "url":"https://bokepindopornub.pages.dev"
             },
             "foundingDate":"2024-06-10"
         }
@@ -50,11 +50,11 @@ export default function RootLayout({
             "@context": "https://schema.org",
         "@type": "WebSite",
         "name": `${SITENAME}`,
-        "url": "https://bokepindo.pornub.lol",
+        "url": "https://bokepindopornub.pages.dev",
         "description": `${SITENAME} Video Bokep Indo Jepang Jav Barat Simontok Viral Terbaru Bocil Ngentot Jilbab Smp Mama Sma korea china tante live paksa ngentot abg cewek pelajar.`,
         "potentialAction": { 
         "@type": "SearchAction", 
-          "target": "https://bokepindo.pornub.lol/?q={search_term}", 
+          "target": "https://bokepindopornub.pages.dev/?q={search_term}", 
             "query-input": "required name=search_term"}
         }
     return (
